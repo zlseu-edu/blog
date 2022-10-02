@@ -13,10 +13,6 @@ export const NAV_ITEMS: NavItems = {
         path: '/tags',
         title: 'tags'
     },
-    media: {
-        path: '/media',
-        title: 'media'
-    },
     about: {
         path: '/about',
         title: 'about'
@@ -25,11 +21,11 @@ export const NAV_ITEMS: NavItems = {
 
 export const SITE = {
     // Your site's detail?
-    name: 'Ink',
-    title: 'Astro - Ink',
-    description: 'Crisp, minimal, personal blog theme for Astro',
-    url: 'https://astro-ink.vercel.app',
-    githubUrl: 'https://github.com/one-aalam/astro-ink',
+    name: 'zlseu_edu',
+    title: 'zlseu_edu',
+    description: '不知道怎么描述，先这样吧...',
+    url: 'https://funplus.jimmyzhang.tech',
+    githubUrl: 'https://github.com/zlseu-edu',
     listDrafts: true
     // description ?
 }
